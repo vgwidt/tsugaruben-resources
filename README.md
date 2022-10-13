@@ -15,8 +15,7 @@ I have tons of resources scattered all over the place.  My goal is to try to con
 http://ja7bal.la.coocan.jp/jiten.htm (Hidetaka Sato) 1422 word dictionary (日本語).  The main site also has a wealth of cultural information ([Wayback](https://web.archive.org/web/20220729153800/http://ja7bal.la.coocan.jp:80/jiten.htm))
 * https://www.weblio.jp/cat/dialect/tgrgj
 * http://www.tsugarish.com/tgr_top.html
-* http://http://www2d.biglobe.ne.jp/~oga/tsugaru/ben.html
-* 
+* http://www2d.biglobe.ne.jp/~oga/tsugaru/ben.html
 
 
 
